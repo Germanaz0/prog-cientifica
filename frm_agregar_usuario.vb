@@ -88,7 +88,5 @@
         '    End If
     End Sub
 
-    Private Sub TableLayoutPanel2_Paint(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles TableLayoutPanel2.Paint
 
-    End Sub
 End Class

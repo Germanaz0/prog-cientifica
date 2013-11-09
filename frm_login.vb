@@ -34,6 +34,7 @@ Public Class frm_login
                 InnerItem.Tag = Referencia
                 Item.DropDownItems.Add(InnerItem)
                 AddHandler InnerItem.Click, AddressOf Nivel_Click
+                
             Case 3
                 SubInnerItem = New ToolStripMenuItem()
                 SubInnerItem.Text = Texto
@@ -41,6 +42,9 @@ Public Class frm_login
                 InnerItem.DropDownItems.Add(SubInnerItem)
                 AddHandler SubInnerItem.Click, AddressOf Nivel_Click
         End Select
+        
+
+
     End Sub
 
     Private Sub Nivel_Click(ByVal Sender As Object, ByVal e As EventArgs)
