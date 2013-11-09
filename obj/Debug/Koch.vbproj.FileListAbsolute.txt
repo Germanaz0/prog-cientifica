@@ -1,0 +1,147 @@
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\bin\Debug\Koch.exe
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\bin\Debug\Koch.pdb
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\bin\Debug\Koch.xml
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\Koch.Form1.resources
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\Koch.Resources.resources
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\Koch.exe
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\Koch.xml
+C:\Documents and Settings\IES\Configuración local\Datos de programa\Temporary Projects\Koch\obj\Debug\Koch.pdb
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.exe
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.xml
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.pdb
+C:\EjemploImpresion\Koch\Koch\bin\Debug\Koch.exe
+C:\EjemploImpresion\Koch\Koch\bin\Debug\Koch.pdb
+C:\EjemploImpresion\Koch\Koch\bin\Debug\Koch.xml
+C:\EjemploImpresion\Koch\Koch\obj\Debug\ResolveAssemblyReference.cache
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.Resources.resources
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+C:\EjemploImpresion\Koch\Koch\bin\Debug\MySql.Data.dll
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.Recuperacion.resources
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.Login.resources
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.Frm_Consultas.resources
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.Form1.resources
+C:\EjemploImpresion\Koch\Koch\obj\Debug\Koch.Form2.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.exe
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.xml
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.pdb
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\bin\Debug\Koch.exe
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\bin\Debug\Koch.pdb
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\bin\Debug\Koch.xml
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\bin\Debug\MySql.Data.dll
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.Frm_Consultas.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.Form1.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.Form2.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.Login.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.Resources.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.Recuperacion.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.exe
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.xml
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.pdb
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\bin\Debug\Koch.exe
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\bin\Debug\Koch.pdb
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\bin\Debug\Koch.xml
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.Frm_Consultas.resources
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.Form1.resources
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.Form2.resources
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.Login.resources
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.Resources.resources
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.Recuperacion.resources
+C:\Documents and Settings\IES\Escritorio\Koch\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.frm_Opcion.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch\Koch\obj\Debug\Koch.frm_Cartera.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.exe
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.xml
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.pdb
+C:\Users\CAMILA\Documents\IES\Koch\Koch\bin\Debug\Koch.exe
+C:\Users\CAMILA\Documents\IES\Koch\Koch\bin\Debug\Koch.pdb
+C:\Users\CAMILA\Documents\IES\Koch\Koch\bin\Debug\Koch.xml
+C:\Users\CAMILA\Documents\IES\Koch\Koch\bin\Debug\MySql.Data.dll
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.Frm_Consultas.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.Form1.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.frm_Cartera.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.Login.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.Resources.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.frm_Opcion.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.Recuperacion.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.ABM_cli.resources
+C:\Users\CAMILA\Documents\IES\Koch\Koch\obj\Debug\Koch.ABM_usu.resources
+H:\Koch\obj\Debug\Koch.exe
+H:\Koch\obj\Debug\Koch.xml
+H:\Koch\obj\Debug\Koch.pdb
+H:\Koch\bin\Debug\Koch.exe
+H:\Koch\bin\Debug\Koch.pdb
+H:\Koch\bin\Debug\Koch.xml
+H:\Koch\bin\Debug\MySql.Data.dll
+H:\Koch\obj\Debug\ResolveAssemblyReference.cache
+H:\Koch\obj\Debug\Koch.ABM_cli.resources
+H:\Koch\obj\Debug\Koch.ABM_usu.resources
+H:\Koch\obj\Debug\Koch.Frm_Consultas.resources
+H:\Koch\obj\Debug\Koch.Form1.resources
+H:\Koch\obj\Debug\Koch.frm_Cartera.resources
+H:\Koch\obj\Debug\Koch.Login.resources
+H:\Koch\obj\Debug\Koch.Resources.resources
+H:\Koch\obj\Debug\Koch.frm_Opcion.resources
+H:\Koch\obj\Debug\Koch.Recuperacion.resources
+H:\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+E:\Koch\obj\Debug\Koch.exe
+E:\Koch\obj\Debug\Koch.xml
+E:\Koch\obj\Debug\Koch.pdb
+E:\Koch\bin\Debug\Koch.exe
+E:\Koch\bin\Debug\Koch.pdb
+E:\Koch\bin\Debug\Koch.xml
+E:\Koch\bin\Debug\MySql.Data.dll
+E:\Koch\obj\Debug\ResolveAssemblyReference.cache
+E:\Koch\obj\Debug\Koch.ABM_cli.resources
+E:\Koch\obj\Debug\Koch.ABM_usu.resources
+E:\Koch\obj\Debug\Koch.Frm_Consultas.resources
+E:\Koch\obj\Debug\Koch.Form1.resources
+E:\Koch\obj\Debug\Koch.frm_Cartera.resources
+E:\Koch\obj\Debug\Koch.Login.resources
+E:\Koch\obj\Debug\Koch.Resources.resources
+E:\Koch\obj\Debug\Koch.frm_Opcion.resources
+E:\Koch\obj\Debug\Koch.Recuperacion.resources
+E:\Koch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+I:\Koch\obj\Debug\Koch.exe
+I:\Koch\obj\Debug\Koch.xml
+I:\Koch\obj\Debug\Koch.pdb
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.exe
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.xml
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.pdb
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\bin\Debug\Koch.exe
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\bin\Debug\Koch.pdb
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\bin\Debug\Koch.xml
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\bin\Debug\MySql.Data.dll
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.ABM_cli.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.ABM_usu.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.Frm_Consultas.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.Form1.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.frm_Cartera.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.Login.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.Resources.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.frm_Opcion.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.Recuperacion.resources
+E:\Documents\Gerardo\IES Analista en Sistemas\4º Cuatrimestre\KOCH\Koch cami\obj\Debug\Koch.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.exe
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.xml
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.pdb
+C:\Documents and Settings\Owner\Desktop\tpKoch\bin\Debug\Koch.exe
+C:\Documents and Settings\Owner\Desktop\tpKoch\bin\Debug\Koch.pdb
+C:\Documents and Settings\Owner\Desktop\tpKoch\bin\Debug\Koch.xml
+C:\Documents and Settings\Owner\Desktop\tpKoch\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.Frm_Consultas.resources
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_Cartera.resources
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.Resources.resources
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_alta_cliente.resources
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_alta_usuario.resources
+C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_login.resources
