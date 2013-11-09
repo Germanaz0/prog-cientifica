@@ -2,7 +2,7 @@
 Imports MySql.Data.MySqlClient
 
 Public Class Mysql
-    Dim ConStr As String = "server=10.0.2.2;uid=root;password=root;database=tpkoch"
+    Dim ConStr As String = "server=216.224.170.112;uid=hcrcurso_prog;password=mysql;database=hcrcurso_progcientifica"
     'instanciamos un objeto conexion
     'y le pasamos de parametro la variable con la cadena 
     Dim Con As New MySqlConnection(ConStr)

@@ -145,3 +145,18 @@ C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.vbproj.GenerateRes
 C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_alta_cliente.resources
 C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_alta_usuario.resources
 C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_login.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.exe
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.xml
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.pdb
+\\VBOXSVR\Público\tpKoch\bin\Debug\Koch.exe
+\\VBOXSVR\Público\tpKoch\bin\Debug\Koch.pdb
+\\VBOXSVR\Público\tpKoch\bin\Debug\Koch.xml
+\\VBOXSVR\Público\tpKoch\bin\Debug\MySql.Data.dll
+\\VBOXSVR\Público\tpKoch\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_alta_cliente.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_alta_usuario.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.Frm_Consultas.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_Cartera.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_login.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.Resources.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.vbproj.GenerateResource.Cache
