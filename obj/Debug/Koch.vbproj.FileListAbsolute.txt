@@ -160,3 +160,5 @@ C:\Documents and Settings\Owner\Desktop\tpKoch\obj\Debug\Koch.frm_login.resource
 \\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_login.resources
 \\VBOXSVR\Público\tpKoch\obj\Debug\Koch.Resources.resources
 \\VBOXSVR\Público\tpKoch\obj\Debug\Koch.vbproj.GenerateResource.Cache
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_agregar_usuario.resources
+\\VBOXSVR\Público\tpKoch\obj\Debug\Koch.frm_usuarios.resources

@@ -17,7 +17,7 @@
             UsuarioTmp.Login(Usuario, Password)
         Catch ex As Exception
             ''My.Computer.Audio.Play(My.Resources.errorcontra, AudioPlayMode.WaitToComplete)
-            MsgBox(ex.Message(), MsgBoxStyle.Exclamation, "Error de conección")
+            MsgBox(ex.Message(), MsgBoxStyle.Critical, "Error de conección")
             Return False
         End Try
 

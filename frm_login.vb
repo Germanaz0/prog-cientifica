@@ -5,16 +5,18 @@ Public Class frm_login
     Dim Item, InnerItem, SubInnerItem As ToolStripMenuItem
 
     Private Sub Login_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        Empezar()
+        IniciarFormDeUsuarioDeslogueado()
     End Sub
 
-    Private Sub Empezar()
+    Private Sub IniciarFormDeUsuarioDeslogueado()
         ModInicio.MIUsuario = New ClassUsuario
 
         GroupBox1.Visible = True
         Log_usuario.Text = ""
         Log_contra.Text = ""
         Log_usuario.Focus()
+
+        Me.Text = "Ingresar - Sistema de Cajas"
 
     End Sub
 
@@ -42,17 +44,20 @@ Public Class frm_login
     End Sub
 
     Private Sub Nivel_Click(ByVal Sender As Object, ByVal e As EventArgs)
-        If Sender.Tag = "Salir" Then
+
+        If (Sender.Tag = "salir") Then
             Me.Close()
             Exit Sub
         End If
-        If Sender.Tag = "Cerrar Sesion" Then
+
+        If (Sender.Tag = "cerrar_sesion") Then
             menustrip.Items.Clear()
             menustrip.Visible = True
-            Empezar()
+            IniciarFormDeUsuarioDeslogueado()
             Exit Sub
         End If
-        If Sender.Tag <> "" Then
+
+        If (Sender.Tag <> "") Then
             Dim mform As String
             mform = "Koch." & Sender.Tag
             Dim objNewForm As Object = Activator.CreateInstance(Type.GetType(mform))
@@ -126,6 +131,7 @@ Public Class frm_login
     Private Sub IniciarFormDeUsuarioLogueado()
         Dim MenuUsuario As System.Data.DataTable
         Dim MenuCount As Integer
+        Dim IndiceMenu As Integer = 0
 
         ''Obtenemos el menu del usuario
         MenuUsuario = MIUsuario.ObtenerMenu()
@@ -140,12 +146,18 @@ Public Class frm_login
 
         My.Computer.Audio.Play(My.Resources.beep_21, AudioPlayMode.WaitToComplete)
 
-        For IndiceMenu As Integer = 0 To MenuCount - 1
-            Me.Crear_Menu(MenuUsuario(IndiceMenu).Item("Nivel"), MenuUsuario(IndiceMenu).Item("Nombre_Menu"), MenuUsuario(IndiceMenu).Item("Formulario"))
+        For IndiceMenu = 0 To MenuCount - 1
+            Me.Crear_Menu(MenuUsuario(IndiceMenu).Item("nivel"), MenuUsuario(IndiceMenu).Item("nombre_menu"), MenuUsuario(IndiceMenu).Item("formulario"))
         Next IndiceMenu
 
         Me.Controls.Add(menustrip)
         Me.MainMenuStrip = menustrip
 
+        Me.Text = "Bienvenidos al Sistema de Cajas"
+
     End Sub
+
+
+
+
 End Class

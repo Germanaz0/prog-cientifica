@@ -46,12 +46,19 @@
     Public Function ObtenerMenu() As System.Data.DataTable
         Dim Consulta As String
 
-        ''"SELECT `menues`.`Id_Perfil`, `menues`.`Nombre_Menu`, `menues`.`Nivel`, `menues`.`Formulario` FROM `perfiles` INNER JOIN `menues` ON `perfiles`.`Id_Perfiles` = `menues`.`Id_Perfil` AND menues.id_perfil <= '" & Dtu.Rows(0).Item("Id_Perfil") & "' Order by Id_Menu")
-        Consulta = "SELECT Id_Perfil, Nombre_Menu, Nivel, Formulario FROM perfiles pe INNER JOIN menues as me ON pe.Id_Perfiles = me.Id_Perfil AND me.id_perfil <= '{0}' ORDER BY me.Id_menu"
+        Consulta = "SELECT me.*, tu.descripcion as tipo_usuario FROM tipos_usuarios tu INNER JOIN menues as me ON me.Id_Perfil = tu.Id WHERE me.Id_Perfil <= {0} ORDER BY me.Id_Menu ASC"
 
         Return Me.MySQL.LEER(String.Format(Consulta, Me.TipoUsuarioID))
 
+    End Function
 
+
+    Public Function isLoggedIn() As Boolean
+        If (Me.ID = 0) Then
+            Return False
+        End If
+
+        Return True
     End Function
 
 

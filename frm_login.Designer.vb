@@ -22,10 +22,11 @@ Partial Class frm_login
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frm_login))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox
         Me.Label2 = New System.Windows.Forms.Label
-        Me.Label1 = New System.Windows.Forms.Label
         Me.Log_salir = New System.Windows.Forms.Button
+        Me.Label1 = New System.Windows.Forms.Label
         Me.Log_ingr = New System.Windows.Forms.Button
         Me.Log_usuario = New System.Windows.Forms.TextBox
         Me.Log_contra = New System.Windows.Forms.TextBox
@@ -36,8 +37,8 @@ Partial Class frm_login
         '
         Me.GroupBox1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.GroupBox1.Controls.Add(Me.Label2)
-        Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Controls.Add(Me.Log_salir)
+        Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Controls.Add(Me.Log_ingr)
         Me.GroupBox1.Controls.Add(Me.Log_usuario)
         Me.GroupBox1.Controls.Add(Me.Log_contra)
@@ -56,6 +57,15 @@ Partial Class frm_login
         Me.Label2.TabIndex = 11
         Me.Label2.Text = "Contraseña"
         '
+        'Log_salir
+        '
+        Me.Log_salir.Location = New System.Drawing.Point(55, 135)
+        Me.Log_salir.Name = "Log_salir"
+        Me.Log_salir.Size = New System.Drawing.Size(92, 32)
+        Me.Log_salir.TabIndex = 9
+        Me.Log_salir.Text = "Salir"
+        Me.Log_salir.UseVisualStyleBackColor = True
+        '
         'Label1
         '
         Me.Label1.AutoSize = True
@@ -65,18 +75,9 @@ Partial Class frm_login
         Me.Label1.TabIndex = 10
         Me.Label1.Text = "Usuario"
         '
-        'Log_salir
-        '
-        Me.Log_salir.Location = New System.Drawing.Point(153, 145)
-        Me.Log_salir.Name = "Log_salir"
-        Me.Log_salir.Size = New System.Drawing.Size(92, 32)
-        Me.Log_salir.TabIndex = 9
-        Me.Log_salir.Text = "Salir"
-        Me.Log_salir.UseVisualStyleBackColor = True
-        '
         'Log_ingr
         '
-        Me.Log_ingr.Location = New System.Drawing.Point(42, 145)
+        Me.Log_ingr.Location = New System.Drawing.Point(153, 135)
         Me.Log_ingr.Name = "Log_ingr"
         Me.Log_ingr.Size = New System.Drawing.Size(92, 32)
         Me.Log_ingr.TabIndex = 8
@@ -98,16 +99,17 @@ Partial Class frm_login
         Me.Log_contra.Size = New System.Drawing.Size(124, 20)
         Me.Log_contra.TabIndex = 2
         '
-        'Login
+        'frm_login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.BurlyWood
         Me.ClientSize = New System.Drawing.Size(759, 385)
         Me.Controls.Add(Me.GroupBox1)
-        Me.Name = "Login"
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.Name = "frm_login"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Form1"
+        Me.Text = "Ingresar - Sistema de Cajas"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
